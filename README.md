@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Saklani</h1>
 <h3 align="center">Frontend & Full Stack Developer</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaurav-saklani-0a0a6937a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Gauravsaklani01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -60,8 +51,5 @@
 <p>
   <a href="https://www.linkedin.com/in/gaurav-saklani-0a0a6937a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Gauravsaklani01/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
 </p>
