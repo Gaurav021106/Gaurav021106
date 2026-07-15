@@ -51,21 +51,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaurav021106&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav021106&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gaurav021106&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
