@@ -60,4 +60,7 @@
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2" alt="Email" />
   </a>
+  <a href="https://leetcode.com/u/gauravsaklani/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&scale=1.2" alt="LeetCode" />
+  </a>
 </div>
